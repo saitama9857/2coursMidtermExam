@@ -3,12 +3,12 @@ Tic-tac-toe - What is the current state of the game? In a game of Tic-Tac-Toe, t
 
 Examples :
 
-###X wins - when X occupies either all cells in a vertical line, or all cells in a horizontal line, or all cells in a diagonal. Sample Input : XOXXOOXXO. Sample Output : X wins!.
+### X wins - when X occupies either all cells in a vertical line, or all cells in a horizontal line, or all cells in a diagonal. Sample Input : XOXXOOXXO. Sample Output : X wins!.
 
-###O wins - when O occupies either all cells in a vertical line, or all cells in a horizontal line, or all cells in a diagonal. Sample Input : XOOXOXOXO. Sample Output : O Wins!.
+### O wins - when O occupies either all cells in a vertical line, or all cells in a horizontal line, or all cells in a diagonal. Sample Input : XOOXOXOXO. Sample Output : O Wins!.
 
-###Draw - no player has won. Sample Input : OXOXOXXOX. Sample Output : Its a draw!.
+### Draw - no player has won. Sample Input : OXOXOXXOX. Sample Output : Its a draw!.
 
-###Game in progress - if no player has won and its not a draw. Sample Input : XOXX--O--. Sample Output : Game still in progress!.
+### Game in progress - if no player has won and its not a draw. Sample Input : XOXX--O--. Sample Output : Game still in progress!.
 
-###Invalid Grid - a grid thats not possible to achieve in a real game. Sample Input : XXXOOOXXO. Sample Output : Invalid game board.
+### Invalid Grid - a grid thats not possible to achieve in a real game. Sample Input : XXXOOOXXO. Sample Output : Invalid game board.
