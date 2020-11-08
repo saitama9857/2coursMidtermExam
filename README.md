@@ -15,3 +15,10 @@ Examples :
 ### Game in progress - if no player has won and its not a draw. Sample Input : XOXX--O--. Sample Output : Game still in progress!.
 
 ### Invalid Grid - a grid thats not possible to achieve in a real game. Sample Input : XXXOOOXXO. Sample Output : Invalid game board.
+
+
+### ![image](https://user-images.githubusercontent.com/58214386/98456393-4ffa7080-21a7-11eb-9ac0-ea583e644d0c.png)
+
+
+# Ruslan agai  i did this last 12 ours i could do only screenshots and readme  olso ""jar"" files in very optimistic variant i could get only 40p thats meen i am fail 
+# but  i would ask you to put me at least get a passing score PLEASE !
